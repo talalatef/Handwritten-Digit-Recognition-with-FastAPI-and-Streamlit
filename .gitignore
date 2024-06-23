@@ -1,0 +1,4 @@
+data/MNIST/
+*.onnx
+*.pth
+__pycache__/
